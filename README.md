@@ -11,7 +11,7 @@ git clone https://github.com/NayamAmarshe/ulauncher-zorinBlueDark/ \
   ~/.config/ulauncher/user-themes/zorin-blue-dark
 ```
 
-######OR
+###### OR
 
 Download the zip file from here: https://github.com/NayamAmarshe/ulauncher-zorinBlueDark/archive/refs/heads/master.zip
 
