@@ -15,7 +15,7 @@ git clone https://github.com/NayamAmarshe/ulauncher-zorinBlueDark/ \
 
 Download the zip file from here: https://github.com/NayamAmarshe/ulauncher-zorinBlueDark/archive/refs/heads/master.zip
 
-and extract the files to `/home/YourUsername/.config/ulauncher/user-themes/zorin-blue-dark`
+and extract the `ulauncher-zorinBlueDark-main` folder to `/home/YourUsername/.config/ulauncher/user-themes/`
 
 ### Preview
 
